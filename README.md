@@ -1,2 +1,2 @@
 # My-Blog
-My bloggin website
+My blogging website
